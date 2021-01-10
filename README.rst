@@ -15,6 +15,7 @@ DiscordSVGs
 
 - `Acrobat <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-acrobat.svg>`_
 - `Archive <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-archive.svg>`_
+- `Attachment <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-attachment.svg>`_
 - `Audio <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-audio.svg>`_
 - `Code <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-code.svg>`_
 - `Document <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-document.svg>`_
