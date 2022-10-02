@@ -42,3 +42,4 @@ DiscordSVGs
 - `Unknown <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-unknown.svg>`_
 - `Web Code <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-webcode.svg>`_
 - `Hashtag <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-hashtag.svg>`_
+- `Logo <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-logo.svg>`_
